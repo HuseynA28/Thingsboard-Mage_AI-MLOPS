@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+APScheduler
+httpx
+pytz
+pandas
+numpy
+mlflow
+boto3
+python-dotenv
+
+sqlalchemy
